@@ -1,0 +1,18 @@
+{
+    "obj1":{
+        "context":"hogehoge",
+        "x":0,
+        "y":0,
+        "z":0,
+        "x-turn":0,
+        "y-turn":0
+    },
+    "obj2":{
+        "context":"hogehoge",
+        "x":0,
+        "y":0,
+        "z":0,
+        "x-turn":0,
+        "y-turn":0
+    }
+}
