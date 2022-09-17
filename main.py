@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    return "<p>Hello, World!</p>"
+    return "Hello, World!"
 
 @app.route('/init/object', methods=['GET'])
 def init_object():
